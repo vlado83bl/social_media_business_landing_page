@@ -1,0 +1,14 @@
+{
+  "name": "moj_zadatak",
+  "version": "1.0.0",
+  "description": "landing page for marketing agency",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "vlado83bl",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  }
+}
